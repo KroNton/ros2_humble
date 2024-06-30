@@ -29,5 +29,5 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: ghcr.io/krontron/ros2_humble:latest
+        tags: ghcr.io/kronton/ros2_humble:latest
 
